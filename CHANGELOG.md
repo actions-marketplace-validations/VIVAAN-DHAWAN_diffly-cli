@@ -2,6 +2,12 @@
 
 All notable changes to diffly are documented here. The format follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/) and the project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.1.1] - 2026-10-22
+
+### Changed
+
+- PyPI metadata now links back to the repository, documentation, changelog, issues, and the bundled GitHub Action, and the package is classified as beta with per-version Python classifiers and expanded keywords. No runtime behavior changed.
+
 ## [1.1.0] - 2026-08-23
 
 ### Fixed

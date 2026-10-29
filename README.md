@@ -11,8 +11,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/VIVAAN-DHAWAN/diffly-cli/actions/workflows/ci.yml"><img src="https://img.shields.io/badge/CI-passing-brightgreen?style=for-the-badge&logo=githubactions" alt="CI"></a>
-  <a href="https://github.com/VIVAAN-DHAWAN/diffly-cli/releases/latest"><img src="https://img.shields.io/badge/release-v1.0.0-blue?style=for-the-badge" alt="Release"></a>
+  <a href="https://github.com/VIVAAN-DHAWAN/diffly-cli/actions/workflows/ci.yml"><img src="https://img.shields.io/github/actions/workflow/status/VIVAAN-DHAWAN/diffly-cli/ci.yml?style=for-the-badge&logo=githubactions&label=CI" alt="CI"></a>
+  <a href="https://github.com/VIVAAN-DHAWAN/diffly-cli/releases/latest"><img src="https://img.shields.io/github/v/release/VIVAAN-DHAWAN/diffly-cli?style=for-the-badge&label=release" alt="Release"></a>
+  <a href="https://pypi.org/project/diffly-cli/"><img src="https://img.shields.io/pypi/dm/diffly-cli?style=for-the-badge&logo=pypi&logoColor=white&label=pypi%20installs" alt="PyPI downloads"></a>
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/python-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python 3.10+"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-green?style=for-the-badge" alt="License: MIT"></a>
 </p>
